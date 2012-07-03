@@ -2,7 +2,7 @@ use strict;
 use warnings;
 package Acme::rafl::Everywhere;
 {
-  $Acme::rafl::Everywhere::VERSION = '0.001';
+  $Acme::rafl::Everywhere::VERSION = '0.002';
 }
 # ABSTRACT: rafl is so everywhere, he has his own Acme module!
 
@@ -53,7 +53,7 @@ Acme::rafl::Everywhere - rafl is so everywhere, he has his own Acme module!
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 AUTHOR
 
@@ -81,10 +81,12 @@ rafl is so everywhere, you can find Waldo simply by searching for anyone who isn
 rafl is so everywhere, Jesus owes him a pull request on Github!
 rafl is so everywhere, he has the first commit of Javascript on Parrot!
 rafl is so everywhere, when you breathe, that's rafl you're breathing!
-rafl is so everywhere, he makes a cameo in the video from the Ring!
+rafl is so everywhere, he makes a cameo in the video from The Ring!
 rafl is so everywhere, he ar in yur Perl debuggr, pointing at yore crappy code!
 rafl is so everywhere, he is the default entry in your SSH authorized_keys file!
 rafl is so everywhere, he issued the first bug report for Perl, before it existed!
+rafl is so everywhere, he participated in the space olympics!
+rafl is so everywhere, he can visit all the YAPCs even if they are on the same day!
 
 __END__
 
@@ -109,6 +111,12 @@ for too long, because he really is everywhere.
 L<Moose>, L<MooseX::Declare>, L<Catalyst>, L<Dist::Zilla>, L<signatures>,
 L<KiokuDB>, L<Gtk2>, Perl core, MetaCPAN and GSoC are just I<some> of the
 projects he's involved in.  
+
+=head1 HELP ADD MORE FACTS
+
+Please add more facts! We accept pull requests, patches, emails, IRC messages,
+fortune cookie notes, sky writings, scribbled messages on public bathroom
+stalls, inappropriate mid-meeting whispers, and more.
 
 =head1 BUGS
 

@@ -3,7 +3,7 @@ NAME
     module!
 
 VERSION
-    version 0.001
+    version 0.002
 
 AUTHOR
     Sawyer X <xsawyerx@cpan.org>
@@ -33,6 +33,11 @@ DESCRIPTION
     Moose, MooseX::Declare, Catalyst, Dist::Zilla, signatures, KiokuDB,
     Gtk2, Perl core, MetaCPAN and GSoC are just *some* of the projects he's
     involved in.
+
+HELP ADD MORE FACTS
+    Please add more facts! We accept pull requests, patches, emails, IRC
+    messages, fortune cookie notes, sky writings, scribbled messages on
+    public bathroom stalls, inappropriate mid-meeting whispers, and more.
 
 BUGS
     This module cannot contain all the information about "rafl", but you're
