@@ -3,7 +3,7 @@ NAME
     module!
 
 VERSION
-    version 0.002
+    version 0.003
 
 AUTHOR
     Sawyer X <xsawyerx@cpan.org>
@@ -33,6 +33,9 @@ DESCRIPTION
     Moose, MooseX::Declare, Catalyst, Dist::Zilla, signatures, KiokuDB,
     Gtk2, Perl core, MetaCPAN and GSoC are just *some* of the projects he's
     involved in.
+
+    There is proof for at least one fact noted by this distribution:
+    http://t.co/jcne0k4p, taken at YAPC::EU 2012.
 
 HELP ADD MORE FACTS
     Please add more facts! We accept pull requests, patches, emails, IRC

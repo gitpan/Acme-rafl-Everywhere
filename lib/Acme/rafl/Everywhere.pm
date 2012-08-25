@@ -2,7 +2,7 @@ use strict;
 use warnings;
 package Acme::rafl::Everywhere;
 {
-  $Acme::rafl::Everywhere::VERSION = '0.002';
+  $Acme::rafl::Everywhere::VERSION = '0.003';
 }
 # ABSTRACT: rafl is so everywhere, he has his own Acme module!
 
@@ -53,7 +53,7 @@ Acme::rafl::Everywhere - rafl is so everywhere, he has his own Acme module!
 
 =head1 VERSION
 
-version 0.002
+version 0.003
 
 =head1 AUTHOR
 
@@ -87,6 +87,7 @@ rafl is so everywhere, he is the default entry in your SSH authorized_keys file!
 rafl is so everywhere, he issued the first bug report for Perl, before it existed!
 rafl is so everywhere, he participated in the space olympics!
 rafl is so everywhere, he can visit all the YAPCs even if they are on the same day!
+rafl is so everywhere, every picture is actually photo-bombed by rafl.
 
 __END__
 
@@ -111,6 +112,9 @@ for too long, because he really is everywhere.
 L<Moose>, L<MooseX::Declare>, L<Catalyst>, L<Dist::Zilla>, L<signatures>,
 L<KiokuDB>, L<Gtk2>, Perl core, MetaCPAN and GSoC are just I<some> of the
 projects he's involved in.  
+
+There is proof for at least one fact noted by this distribution:
+http://t.co/jcne0k4p, taken at YAPC::EU 2012.
 
 =head1 HELP ADD MORE FACTS
 

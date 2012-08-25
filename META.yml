@@ -26,4 +26,4 @@ requires:
 resources:
   bugtracker: http://github.com/xsawyerx/acme-rafl-everywhere/issues
   repository: http://github.com/xsawyerx/acme-rafl-everywhere
-version: 0.002
+version: 0.003
