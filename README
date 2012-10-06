@@ -3,7 +3,7 @@ NAME
     module!
 
 VERSION
-    version 0.004
+    version 0.005
 
 SYNOPSIS
         use Acme::rafl::Everywhere;
@@ -27,6 +27,20 @@ DESCRIPTION
 
     There is proof for at least one fact noted by this distribution:
     http://t.co/jcne0k4p, taken at YAPC::EU 2012.
+
+CONTRIBUTERS
+    We would like to thank the following people (in alphabetical order) for
+    their help in collecting these completely real facts about "rafl". This
+    list would not exist without the help of these tireless hard-working
+    lead investigators:
+
+    *   Sawyer X
+
+    *   Toby Inkster
+
+    *   Torsten (Getty) Raudssus
+
+    *   Viacheslav (vti) Tykhanovskyi
 
 HELP ADD MORE FACTS
     Please add more facts! We accept pull requests, patches, emails, IRC

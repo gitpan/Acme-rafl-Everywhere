@@ -21,7 +21,7 @@ my %module_build_args = (
     "Sawyer X <xsawyerx\@cpan.org>"
   ],
   "dist_name" => "Acme-rafl-Everywhere",
-  "dist_version" => "0.004",
+  "dist_version" => "0.005",
   "license" => "perl",
   "module_name" => "Acme::rafl::Everywhere",
   "recommends" => {},
