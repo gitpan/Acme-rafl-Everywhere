@@ -8,4 +8,5 @@ README
 dist.ini
 lib/Acme/rafl/Everywhere.pm
 t/00-compile.t
+t/idempotency-tobyinkster.t
 t/release-pod-syntax.t
