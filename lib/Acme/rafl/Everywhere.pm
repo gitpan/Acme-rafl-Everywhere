@@ -2,7 +2,7 @@ use strict;
 use warnings;
 package Acme::rafl::Everywhere;
 {
-  $Acme::rafl::Everywhere::VERSION = '0.005';
+  $Acme::rafl::Everywhere::VERSION = '0.006';
 }
 # ABSTRACT: rafl is so everywhere, he has his own Acme module!
 
@@ -26,6 +26,12 @@ my @default_facts = (
   q{rafl is so everywhere, he can visit all the YAPCs even if they are on the same day!},
   q{rafl is so everywhere, every picture is actually photo-bombed by rafl!},
   q{rafl is so everywhere, Git might be renamed to Girafl to clarify its distributed design!},
+  q{rafl is so everywhere, the post office asks him for directions!},
+  q{rafl is so everywhere, he has more foursquare checkins in Mars than the Curiosity hover!},
+  q{rafl is so everywhere, quantum teleportation papers cite him as main study source!},
+  q{rafl is so everywhere, he can patch your code even before you push it!},
+  q{rafl is so everywhere, he caused an integer overflow in every Airline's mileage system!},
+  q{rafl is so everywhere, there's a saved seat for him in every conference in the world!},
 );
 
 sub new {
@@ -56,7 +62,7 @@ Acme::rafl::Everywhere - rafl is so everywhere, he has his own Acme module!
 
 =head1 VERSION
 
-version 0.005
+version 0.006
 
 =head1 SYNOPSIS
 
@@ -90,6 +96,8 @@ help in collecting these completely real facts about C<rafl>. This list would
 not exist without the help of these tireless hard-working lead investigators:
 
 =over 4
+
+=item * Breno (garu) G. de Oliveira
 
 =item * Sawyer X
 

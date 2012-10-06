@@ -3,7 +3,7 @@ NAME
     module!
 
 VERSION
-    version 0.005
+    version 0.006
 
 SYNOPSIS
         use Acme::rafl::Everywhere;
@@ -33,6 +33,8 @@ CONTRIBUTERS
     their help in collecting these completely real facts about "rafl". This
     list would not exist without the help of these tireless hard-working
     lead investigators:
+
+    *   Breno (garu) G. de Oliveira
 
     *   Sawyer X
 
