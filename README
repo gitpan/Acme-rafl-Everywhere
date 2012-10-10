@@ -3,7 +3,7 @@ NAME
     module!
 
 VERSION
-    version 0.006
+    version 0.007
 
 SYNOPSIS
         use Acme::rafl::Everywhere;
@@ -25,8 +25,8 @@ DESCRIPTION
     Gtk2, Perl core, MetaCPAN and GSoC are just *some* of the projects he's
     involved in.
 
-    There is proof for at least one fact noted by this distribution:
-    http://t.co/jcne0k4p, taken at YAPC::EU 2012.
+    There is proof for at least one fact noted by this distribution, taken
+    at YAPC::EU 2012.
 
 CONTRIBUTERS
     We would like to thank the following people (in alphabetical order) for
@@ -36,7 +36,7 @@ CONTRIBUTERS
 
     *   Breno (garu) G. de Oliveira
 
-    *   Sawyer X
+    *   Damien Krotkine
 
     *   Toby Inkster
 
@@ -55,6 +55,11 @@ BUGS
 
 THANKS
     To "rafl" for being everywhere. :)
+
+SEE ALSO
+    http://piuparts.debian.org/squeeze/maintainer/r/rafl@debian.org.html
+
+    https://metacpan.org/author/FLORA
 
 AUTHOR
     Sawyer X <xsawyerx@cpan.org>
