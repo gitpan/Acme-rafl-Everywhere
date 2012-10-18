@@ -2,7 +2,7 @@ use strict;
 use warnings;
 package Acme::rafl::Everywhere;
 {
-  $Acme::rafl::Everywhere::VERSION = '0.007';
+  $Acme::rafl::Everywhere::VERSION = '0.008';
 }
 # ABSTRACT: rafl is so everywhere, he has his own Acme module!
 
@@ -33,6 +33,8 @@ my @default_facts = (
   q{rafl is so everywhere, he caused an integer overflow in every Airline's mileage system!},
   q{rafl is so everywhere, there's a saved seat for him in every conference in the world!},
   q{rafl is so everywhere, there's a DuckDuckGo.com "!rafl" bang syntax},
+  q{rafl is so everywhere, he can go sightseeing without leaving his hotel room!},
+  q{rafl is so everywhere, the longest-running scavanger hunt for him took 0.0015 seconds!},
 );
 
 sub new {
@@ -53,7 +55,7 @@ sub fact {
 
 1;
 
-__END__
+
 
 =pod
 
@@ -63,7 +65,7 @@ Acme::rafl::Everywhere - rafl is so everywhere, he has his own Acme module!
 
 =head1 VERSION
 
-version 0.007
+version 0.008
 
 =head1 SYNOPSIS
 
@@ -147,3 +149,7 @@ This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
 
 =cut
+
+
+__END__
+
