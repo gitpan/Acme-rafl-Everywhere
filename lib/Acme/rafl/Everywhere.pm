@@ -2,7 +2,7 @@ use strict;
 use warnings;
 package Acme::rafl::Everywhere;
 {
-  $Acme::rafl::Everywhere::VERSION = '0.008';
+  $Acme::rafl::Everywhere::VERSION = '0.009';
 }
 # ABSTRACT: rafl is so everywhere, he has his own Acme module!
 
@@ -32,9 +32,10 @@ my @default_facts = (
   q{rafl is so everywhere, he can patch your code even before you push it!},
   q{rafl is so everywhere, he caused an integer overflow in every Airline's mileage system!},
   q{rafl is so everywhere, there's a saved seat for him in every conference in the world!},
-  q{rafl is so everywhere, there's a DuckDuckGo.com "!rafl" bang syntax},
+  q{rafl is so everywhere, there's a DuckDuckGo.com "!rafl" bang syntax!},
   q{rafl is so everywhere, he can go sightseeing without leaving his hotel room!},
   q{rafl is so everywhere, the longest-running scavanger hunt for him took 0.0015 seconds!},
+  q{rafl is so everywhere, `grep -i 'rafl' /dev/sda` *always* matches!},
 );
 
 sub new {
@@ -65,7 +66,7 @@ Acme::rafl::Everywhere - rafl is so everywhere, he has his own Acme module!
 
 =head1 VERSION
 
-version 0.008
+version 0.009
 
 =head1 SYNOPSIS
 
@@ -143,7 +144,7 @@ Sawyer X <xsawyerx@cpan.org>
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2012 by Sawyer X.
+This software is copyright (c) 2013 by Sawyer X.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
