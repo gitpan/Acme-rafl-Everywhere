@@ -2,7 +2,7 @@ use strict;
 use warnings;
 package Acme::rafl::Everywhere;
 {
-  $Acme::rafl::Everywhere::VERSION = '0.009';
+  $Acme::rafl::Everywhere::VERSION = '0.010';
 }
 # ABSTRACT: rafl is so everywhere, he has his own Acme module!
 
@@ -27,7 +27,7 @@ my @default_facts = (
   q{rafl is so everywhere, every picture is actually photo-bombed by rafl!},
   q{rafl is so everywhere, Git might be renamed to Girafl to clarify its distributed design!},
   q{rafl is so everywhere, the post office asks him for directions!},
-  q{rafl is so everywhere, he has more foursquare checkins in Mars than the Curiosity hover!},
+  q{rafl is so everywhere, he has more foursquare checkins on Mars than the Curiosity rover!},
   q{rafl is so everywhere, quantum teleportation papers cite him as main study source!},
   q{rafl is so everywhere, he can patch your code even before you push it!},
   q{rafl is so everywhere, he caused an integer overflow in every Airline's mileage system!},
@@ -66,7 +66,7 @@ Acme::rafl::Everywhere - rafl is so everywhere, he has his own Acme module!
 
 =head1 VERSION
 
-version 0.009
+version 0.010
 
 =head1 SYNOPSIS
 
