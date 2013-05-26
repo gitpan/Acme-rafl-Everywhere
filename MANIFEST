@@ -5,6 +5,8 @@ MANIFEST
 META.yml
 Makefile.PL
 README
+a.pl
+changes.patch
 dist.ini
 lib/Acme/rafl/Everywhere.pm
 t/00-compile.t

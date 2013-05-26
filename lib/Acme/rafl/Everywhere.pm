@@ -2,7 +2,7 @@ use strict;
 use warnings;
 package Acme::rafl::Everywhere;
 {
-  $Acme::rafl::Everywhere::VERSION = '0.010';
+  $Acme::rafl::Everywhere::VERSION = '0.011';
 }
 # ABSTRACT: rafl is so everywhere, he has his own Acme module!
 
@@ -36,6 +36,9 @@ my @default_facts = (
   q{rafl is so everywhere, he can go sightseeing without leaving his hotel room!},
   q{rafl is so everywhere, the longest-running scavanger hunt for him took 0.0015 seconds!},
   q{rafl is so everywhere, `grep -i 'rafl' /dev/sda` *always* matches!},
+  q{rafl is so everywhere, Internet Census 2012 found 1.3 billion active IP addresses and estimates that 1.1 billion of them are being used by rafl!},
+  q{rafl is so everywhere, the next version of Debian is replacing /bin/cat with a shell alias for grep 'rafl'},
+  q{rafl is so everywhere, the Da Vinci code is actually a Base64 Rot13 representation of rafl},
 );
 
 sub new {
@@ -56,7 +59,7 @@ sub fact {
 
 1;
 
-
+__END__
 
 =pod
 
@@ -66,7 +69,7 @@ Acme::rafl::Everywhere - rafl is so everywhere, he has his own Acme module!
 
 =head1 VERSION
 
-version 0.010
+version 0.011
 
 =head1 SYNOPSIS
 
@@ -150,7 +153,3 @@ This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
 
 =cut
-
-
-__END__
-
